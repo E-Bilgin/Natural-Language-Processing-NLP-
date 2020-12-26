@@ -52,4 +52,4 @@ If you have questions or experience problems please use the `issues` tab of this
 
 <h2 id="specialthanks">Special Thanks</h2>
 
-https://github.com/teles/array-mixer for having an awesome readme that I used  as a template. 
+https://github.com/TiesdeKok 
