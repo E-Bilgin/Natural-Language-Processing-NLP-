@@ -37,11 +37,6 @@ This repository is written to facilitate learning by doing.
 All the material is written up in a Jupyter Notebook. See: ``.    
 The topics are split up by task description.
 
-
-### Not yet familiar with the basic Python syntax?
-
-Please check out my "Getting started with Python for Research" repository: [click here](https://github.com/TiesdeKok/LearnPythonforResearch)
-
 <h2 id="questions">Questions?</h2>
 
 If you have questions or experience problems please use the `issues` tab of this repository.
