@@ -32,10 +32,7 @@ However, many of the basics are also perfectly applicable if you are looking to 
 
 <h3 id="howtouse">How to use this repository?</h3>
 
-This repository is written to facilitate learning by doing. 
-
-All the material is written up in a Jupyter Notebook. See: ``.    
-The topics are split up by task description.
+This repository is written to facilitate learning by doing. All the material is written up in a Jupyter Notebook.    
 
 <h2 id="questions">Questions?</h2>
 
